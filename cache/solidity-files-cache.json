@@ -36,8 +36,8 @@
       ]
     },
     "/home/amanda/Documents/Projects/buildspace-epic-nfts/contracts/MyEpicNFT.sol": {
-      "lastModificationDate": 1632947343248,
-      "contentHash": "e0128b3f6c6be0380976830ea9a9a208",
+      "lastModificationDate": 1633108874045,
+      "contentHash": "00e224e803b7a8b64b214c42ea32f259",
       "sourceName": "contracts/MyEpicNFT.sol",
       "solcConfig": {
         "version": "0.8.0",
